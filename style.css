@@ -1,0 +1,35 @@
+body{
+    font-family: Arial;
+    text-align: center;
+    background-color: #f0f0f0;
+}
+
+h1{
+    color: #333;
+}
+
+input{
+    padding: 10px;
+    width: 200px;
+}
+
+button{
+    padding: 10px 15px;
+    background-color: blue;
+    color: white;
+    border: none;
+}
+
+#weatherResult{
+    margin-top: 20px;
+    font-size: 18px;
+}
+
+ul{
+    list-style: none;
+}
+
+li{
+    cursor: pointer;
+    color: blue;
+}
